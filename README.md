@@ -61,3 +61,18 @@ There are 25 variables:
 * default.payment.next.month: Default payment (1=yes, 0=no)
 
 --------------------------------------------------------------------------------------------
+## Overview:
+
+This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.Predicting potential credit default accounts.
+
+Technology and tools wise this project covers,
+
+1.Python
+
+2.Numpy and Pandas for data cleaning
+
+3.Data visualization
+
+4.Sklearn for model building
+
+5.Jupiter Notebook
