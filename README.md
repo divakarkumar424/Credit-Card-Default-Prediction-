@@ -2,7 +2,8 @@
 
 --------------------------------------------
 ## Table of Content
-  * [Dataset information](#dataset information)
+
+  * [Dataset information](#Dataset information)
   * [Overview](#overview)
 
 This project is aimed at predicting the case of customers default payments in Taiwan.
