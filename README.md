@@ -1,6 +1,6 @@
 ## Credit Card Default Prediction
 
-## Table of Content
+### Table of Content
 
   * [Dataset Information](#dataset-information)
   * [Overview](#overview)
@@ -12,7 +12,7 @@ This dataset contains information on default payments, demographic factors, cred
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img target="_blank" src="https://user-images.githubusercontent.com/32620288/139556045-5a52c63e-18e8-46cf-b1f0-9c056b6358de.png" width=1000; height=300>
 
-## Dataset information:
+### Dataset information:
 
 There are 25 variables:
 
@@ -67,7 +67,7 @@ There are 25 variables:
 * default.payment.next.month: Default payment (1=yes, 0=no)
 
 --------------------------------------------------------------------------------------------
-## Overview:
+### Overview:
 
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.Predicting potential credit default accounts.
 
@@ -85,7 +85,7 @@ Technology and tools wise this project covers,
 
 --------------------------------
 
-## Technologies Used:
+### Technologies Used:
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
