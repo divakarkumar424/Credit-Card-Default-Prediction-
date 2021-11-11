@@ -1,6 +1,5 @@
 ## Credit Card Default Prediction
 
---------------------------------------------
 ## Table of Content
 
   * [Dataset Information](#dataset-information)
